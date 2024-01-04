@@ -22,12 +22,3 @@ I'm Hassan Abbas, a dedicated and results-driven web developer with over three y
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/callmeHA" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/callmeHA"><img src="https://github-readme-stats.vercel.app/api?username=callmeHA&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=0891b2&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="callmeHA's GitHub stats" /></a>
-
-<a href="http://www.github.com/callmeHA"><img src="https://github-readme-streak-stats.herokuapp.com/?user=callmeHA&stroke=0891b2&background=000000&ring=ef4444&fire=ef4444&currStreakNum=0891b2&currStreakLabel=ef4444&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-
-<a href="https://github.com/callmeHA" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeHA&langs_count=10&title_color=ef4444&text_color=0891b2&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
